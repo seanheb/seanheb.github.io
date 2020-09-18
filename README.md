@@ -1,6 +1,6 @@
 ## Math 4610 
 
-#Sean Hebner
+# Sean Hebner
 
 I am writin silly words to see if they change the website. Farckle shmapoobph
 
